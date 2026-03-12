@@ -57,7 +57,7 @@ Singleton (Gemensam instans): Finns i Logger.cs. Säkerställer att det bara exi
 
 ## Klassdiagram
 (OBS: Bilden visar hur SmartHomeFacade agerar gränssnitt för de underliggande mönstren och relationerna mellan enheter, kommandon och lägen).
-![Smart Home Diagram](Smart_Home_Diagram.png)
+![Smart Home Diagram](images/Smart_Home_Diagram.png)
 
 ## Demo Output
 - Såhär ser utskriften ut i konsolen när programmet körs:
